@@ -1,0 +1,363 @@
+                                                       /* font */                                                       
+                                                       
+         .fira-sans-thin {
+            font-family: "Fira Sans", serif;
+            font-style: normal;
+          }                                              
+                                                 
+                                                       /* Shared Style */       
+.btn-primary{
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 17px 34px;
+    border-radius: 8px;
+    border: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hd{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+}
+
+
+
+
+                                                                                                  
+                                                       /* banner */
+.banner-greetings{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 0.5);
+    margin-bottom: 25px;
+}
+
+.banner-description{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    
+}
+
+
+.banner-pic{
+    width: 474.03px;
+    height: 400px;
+    padding: 80px 60px 80px 64px
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 160px 80px 160px ;
+    background-color: #C6E4D6;
+    margin:
+}
+
+/* banner content er vitor banner greetings, description ar button er vitor gap komate parci na */
+.banner-content{
+    max-width: 622px;
+    padding: 117px 64px 117px 60px; 
+    
+}
+
+
+                                                      /* visions */
+.vision{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.visions{
+    display: flex;
+    gap: 24px;
+    gap
+}
+
+.visi1{
+    padding: 32px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+
+}
+
+.visi2{
+    padding: 32px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+
+}
+
+.visi3{
+    padding: 32px;
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+
+}
+
+.version-btn1{
+     background-color: #5490F5;
+     font-weight: 600;
+     font-size: 16px;
+     color: white;
+     padding: 11px 20px;
+     border-radius: 8px;
+     border: none;
+}
+
+.version-btn2{
+    background-color: #09A15C;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.version-btn3{
+    background-color: #FFC239;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+                                                         /* body */
+body{
+    background-color: #F1F1F3;
+}
+
+
+                                                        /* news */
+
+.news{
+    margin-left: 160px;
+    margin-right: 160px;
+
+}
+
+
+
+.news1{
+    display: flex;
+    gap: 32px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 24px;
+    
+}
+
+
+.sat{
+    padding: 48px 0px 48px 48px;
+}
+
+.news1-content{
+    padding: 56px 48px 56px 0px;
+}
+
+
+
+
+
+
+
+.news2{
+    display: flex;
+    gap: 32px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 24px;
+    
+}
+
+
+.sat2{
+    padding: 48px 48px 48px 0px;
+}
+
+.news2-content{
+    padding: 56px 0px 56px 48px;
+}
+
+
+                                                        /* donate */
+.taka{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+    font-size: 40px;
+    font-weight: bold;
+    
+    
+}
+
+.tk{
+    background-color: white;
+    padding: 40px;
+    border-radius: 16px;
+    
+}
+
+.tk2{
+    background-color: #C6E4D6;
+}
+
+.tk:hover {
+    background-color: #f0f8ff; /* Light blue */
+    transform: scale(1.1); /* Slightly enlarges the element */
+}
+
+.tk2:hover {
+    background-color: #a8d5c1; /* Darker green */
+    transform: scale(1.1); /* Slightly enlarges the element */
+}
+
+.dont-section{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.donate-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+
+.donate-description{
+    text-align: center;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.tk-input{
+width: 90%;
+height: 64px;
+text-align: center;
+display: block;
+margin: 0 auto;
+border: none;
+color: rgba(14, 14, 14, 0.3) ;
+font-size: 20px;
+font-weight: 400;
+}
+
+.dbtnn {
+    display: block;
+}
+
+.donate-btn {
+    display: block;
+    margin: 0 auto; /* Centers the button horizontally */
+}
+
+
+                                                        /* newsletter*/
+
+
+.newsletter{
+    background-color: #C6E4D6;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 24px;
+}
+
+.mainlet{
+    padding: 80px 265px;
+    text-align: center;
+}
+
+
+.letbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nletterbox{
+    padding: 40px 18px;
+    border-radius: 5px;
+}
+
+.nletterbox input{
+    font-size: 
+}
+
+.entertext{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0E0E0E;
+    padding: 18px 403px 18px 40px;
+    border-radius;
+
+}
+
+.scribe{
+    font-size: 18px;
+    font-weight: 600; 
+    color: white;
+    background-color: #006A50;
+    padding: 22px 34px;
+    border: none;
+    
+}
+
+.nletter{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.nletterd{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.nospam{
+    padding: 6px 50px 10px 50px;
+}
+
+
+                                                        /* quote*/
+.quote{
+    background-color: white;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 16px;
+    position: relative;
+    
+     
+}
+
+.quoteall{
+    padding: 20px 24px 50px 24px;
+    position: relative;
+}
+
+.qauthor{
+    margin: 0px;
+}
+
+.qwhoisauth{
+    margin: 0px;
+}
+
+.qdescription{
+    padding-top: 60px;
+    background-image: url('assets/quote-bg.png'); /* Add your image path here */
+    background-size:contain; /* Ensure the image covers the whole background */
+    background-position: top left; /* Position the image at the top left */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+}
